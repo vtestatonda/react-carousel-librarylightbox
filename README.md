@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to get started after cloning or downloading the zipfile of the project
+In the project folder, open the command line and type
+
+### `npm install`
+
+to install all dependencies
+
 ## Available Scripts
 
 In the project directory, you can run:
