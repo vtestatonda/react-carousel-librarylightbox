@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import { MainComponent } from './MainComponent';
-
+import "./App.css";
+import { MainComponent } from "./MainComponent";
 
 function App() {
-  return (
-    <MainComponent />
-  );
+  return <MainComponent />;
 }
 
 export default App;
